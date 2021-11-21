@@ -27,6 +27,6 @@ This chart provides a visual representation of the total fares for each city typ
 
 ## Analysis Summary: 
 ### Here are three business recommendations to address disparities among the city types:
-1) Increase advertising and brand awareness in rural areas to add more customers looking for rides and drivers looking for a driving opportunity.
+1) Increase advertising and brand awareness in rural and suburban cities showing the benefits of the PyBer rideshare service. This would help to add more customers looking for rides and drivers looking for a driving opportunity.
 2) Look for ways to attract more riders to use the PyBer service during month when revenue drops (i.e. March 2019) in order to increase ridership and total fares, such as discounted fares during lower revenue times.
 3) Offer a bonus program to drivers in Rural and Suburban cities to refer additional drivers to the company and increase people looking for rides through the service. 
