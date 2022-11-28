@@ -14,7 +14,7 @@ This table provides the following information:
 - Results from the Suburban cities showed them falling in between the Rural and Urban cities in all categories. 
 - The largest amount of rides and drivers were found in the Urban cities, which resultied in the highest amount of total fares and lowest average fare per ride and per driver.
 
-### Total Fare by Cit Type Line Graph
+### Total Fare by City Type Line Graph
 After compiling the data for total fares by city type, we were able to generate the following line chart combining Rural, Suburban and Urban cities:
 
 ![PyBer_fare_summary](https://github.com/jmueller187/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
